@@ -27,7 +27,7 @@ public class ProdutoTest {
     public void beforeEach() {  // Configurando os da API REST   da Lojinha
         baseURI = "http://165.227.93.41";
         //port = 8080;
-        basePath = "/lojinha";
+        basePath = "/lojinha-bugada";
 
 
 
